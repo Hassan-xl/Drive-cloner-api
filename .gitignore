@@ -1,0 +1,24 @@
+# --- Google credentials and tokens ---
+*.json
+token.json
+
+# --- Python virtual environments ---
+.venv/
+venv/
+
+# --- Python cache and compiled files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDE and editor settings ---
+.idea/
+.vscode/
+
+# --- System / temporary files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
